@@ -1,0 +1,9 @@
+- This system must be centralized, but accessible by many different users.
+- The application must be able to store IP ranges as well as individual IP addresses.
+- The application must provide a means to create a hierarchical organization of ranges and individual IP addresses.
+- Users must be able to add, remove, and modify entries.
+- Users must be able to search for information.
+- The system must be able to check whether teh machines that use IP addresses are responsive.
+- For all IP addresses, the system should attempt to optain name records.
+- Users must be required to enter a description for any IP reserervation they make.
+- It should be easy to extend the system to us DHCP.
